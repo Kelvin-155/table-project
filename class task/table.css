@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@media (max-width:768px) {
+    .table_1{
+        overflow: hidden;
+        text-align: center;
+        font-size: 30px;
+        background-color: silver;
+    }
+}

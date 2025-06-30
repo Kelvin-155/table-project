@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+h1:hover{
+    color: blue;
+    font-size: 30px;
+    border: 1px solid limegreen;
+    width: 400px;
+}
+
+
+.first_p{
+    color: brown;
+}
+.good{
+    color: aqua;
+}

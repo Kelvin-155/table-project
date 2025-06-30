@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ 
+@media (max-width:768px) {
+    
+    .form_1{
+      overflow: hidden;
+    
+         display: block;
+        background-color: red;
+        border: 1px solid red;
+        border-radius: 5%;
+        margin-left: 350px;
+         height: 400px; width: 300px;
+          margin-top: 30px;
+           text-align: center;
+            color: white;
+}   
+.form_2{
+    width: 250px; height: 30px;
+    border-radius: 5%;
+    border: none;
+  }
+.form_3{
+    width: 250px; height: 30px;
+    border-radius: 5%;
+     border: none;
+    margin-bottom: 5%;
+  }
+}
+
+
